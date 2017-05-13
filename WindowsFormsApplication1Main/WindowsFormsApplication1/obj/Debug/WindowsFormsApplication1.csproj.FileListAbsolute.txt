@@ -1,0 +1,24 @@
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Анна\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Анна\Documents\visual studio 2015\Projects\WindowsFormsApplication1 - Copy\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Анна\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1Main\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Анна\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1Main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Анна\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1Main\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
